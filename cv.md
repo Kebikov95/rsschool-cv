@@ -1,5 +1,3 @@
-![GitHub-CV](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-
 1. ### User: [Kebikau Kiryl](https://kebikov95.github.io/rsschool-cv/cv)
 
 2. ### Contact Info
