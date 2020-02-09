@@ -1,4 +1,4 @@
-![GitHub-CV](https://images.app.goo.gl/D8vr937R2EUURz4m7)
+![GitHub-CV](https://images.app.goo.gl/D8vr937R2EUURz4m7 "programer")
 
 1. ### User: [Kebikau Kiryl](https://kebikov95.github.io/rsschool-cv/cv)
 
@@ -21,7 +21,6 @@ a web developer for the subsequent device to work.
 
 5. ### Code examples
 #### Implementation of the method for finding the Fibonacci sequence using cycles:
-```javascript
 function fibonacci(num){
   var a = 1, b = 0, temp;
 
@@ -34,15 +33,12 @@ function fibonacci(num){
 
   return b;
 }
-```
 #### Implementation of the method for finding the Fibonacci sequence using recursion:
-```javascript
 function fibonacci(num) {
   if (num <= 1) return 1;
 
   return fibonacci(num - 1) + fibonacci(num - 2);
 }
-```
 
 6. ### Experience
 I had experience writing simple one-page sites and term papers related 
@@ -59,7 +55,6 @@ to calculating and choosing power equipment for operating electrical devices.
 8. ### English
 My level of English is Pre-intermediate level (A2). At this level,
 I am expanding my vocabulary and improving my understanding of English grammar.
-
 Sites: 
 * [Lingualeo](https://lingualeo.com/)
 * [ego4u](https://www.ego4u.com/)
