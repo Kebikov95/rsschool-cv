@@ -1,26 +1,27 @@
-(https://images.app.goo.gl/D8vr937R2EUURz4m7)
+!(https://images.app.goo.gl/D8vr937R2EUURz4m7)
 
-1. ##Kebikau Kiryl
+1. ## User: [Kebikau Kiryl])(https://kebikov95.github.io/rsschool-cv/cv)
 
-2. ##Contact Info
+2. ## Contact Info
 e-mail: **kebikov1995@gmail.com** 
 phone: **+375(29)226-10-37**
 
-3. ##Summary
-###A little bit about yourself:
+3. ## Summary
+### A little bit about yourself:
 I am friendly, active, I love sports and logic tasks.
 I am fast learning new, ambitious and inquisitive.
 The main goal for this year is to gain the skills of
 a web developer for the subsequent device to work.
 
-4. ##Skills
-###I know the following programming languages:
+4. ## Skills
+### I know the following programming languages:
 * HTML, CSS, JavaScript
 * Java, C#
 * SQL, MySQL
 
-5. ##Code examples
-###Implementation of the method for finding the Fibonacci sequence using cycles:
+5. ## Code examples
+### Implementation of the method for finding the Fibonacci sequence using cycles:
+```javascript
 function fibonacci(num){
   var a = 1, b = 0, temp;
 
@@ -33,28 +34,29 @@ function fibonacci(num){
 
   return b;
 }
-
-###Implementation of the method for finding the Fibonacci sequence using recursion:
+```
+### Implementation of the method for finding the Fibonacci sequence using recursion:
+```javascript
 function fibonacci(num) {
   if (num <= 1) return 1;
 
   return fibonacci(num - 1) + fibonacci(num - 2);
 }
-
-6. ##Experience
+```
+6. ## Experience
 I had experience writing simple one-page sites and term papers related 
 to calculating and choosing power equipment for operating electrical devices.
 
-7. ##Education 
-###Udemy
+7. ## Education 
+### Udemy
 * [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) 
 * [JavaScript for QA Engineers and SDETs](https://www.udemy.com/course/javascript-for-qa-engineers-and-sdets/)
 
-###Sites
+### Sites
 * [Codecademy](https://www.codecademy.com/)
 * [Metanit](https://metanit.com/)
 
-8. ##English
+8. ## English
 My level of English is Pre-intermediate level (A2). At this level,
 I am expanding my vocabulary and improving my understanding of English grammar.
 
