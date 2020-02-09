@@ -1,4 +1,4 @@
-![GitHub-CV](https://images.app.goo.gl/D8vr937R2EUURz4m7 "programer")
+![GitHub-CV](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 1. ### User: [Kebikau Kiryl](https://kebikov95.github.io/rsschool-cv/cv)
 
@@ -21,24 +21,25 @@ a web developer for the subsequent device to work.
 
 5. ### Code examples
 #### Implementation of the method for finding the Fibonacci sequence using cycles:
+```
 function fibonacci(num){
   var a = 1, b = 0, temp;
-
   while (num >= 0){
     temp = a;
     a = a + b;
     b = temp;
     num--;
   }
-
   return b;
 }
+```
 #### Implementation of the method for finding the Fibonacci sequence using recursion:
+```
 function fibonacci(num) {
   if (num <= 1) return 1;
-
   return fibonacci(num - 1) + fibonacci(num - 2);
 }
+```
 
 6. ### Experience
 I had experience writing simple one-page sites and term papers related 
